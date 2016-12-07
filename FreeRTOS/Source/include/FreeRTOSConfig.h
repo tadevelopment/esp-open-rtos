@@ -44,7 +44,7 @@
 #define configCPU_CLOCK_HZ			( ( unsigned long ) 80000000 )
 #endif
 #ifndef configTICK_RATE_HZ
-#define configTICK_RATE_HZ			( ( TickType_t ) 100 )
+#define configTICK_RATE_HZ			( ( TickType_t ) 200 )
 #endif
 #ifndef configMAX_PRIORITIES
 #define configMAX_PRIORITIES		( ( unsigned portBASE_TYPE ) 15 )
